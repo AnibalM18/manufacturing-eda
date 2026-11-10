@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# Python / Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
